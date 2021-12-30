@@ -1,0 +1,1 @@
+export type updateMasterState = (ids: Array<number>, checked: boolean) => void;
